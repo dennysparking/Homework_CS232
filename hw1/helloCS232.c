@@ -2,6 +2,6 @@
 
 int main() {
 
-    printf("Hello CS232!");
+    printf("Hello CS232!!");
 
 }
